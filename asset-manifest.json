@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/os_kodu4/static/css/main.a88db1dc.chunk.css",
+    "main.js": "/os_kodu4/static/js/main.3378115d.chunk.js",
+    "main.js.map": "/os_kodu4/static/js/main.3378115d.chunk.js.map",
+    "runtime-main.js": "/os_kodu4/static/js/runtime-main.89c855a6.js",
+    "runtime-main.js.map": "/os_kodu4/static/js/runtime-main.89c855a6.js.map",
+    "static/js/2.5a826f93.chunk.js": "/os_kodu4/static/js/2.5a826f93.chunk.js",
+    "static/js/2.5a826f93.chunk.js.map": "/os_kodu4/static/js/2.5a826f93.chunk.js.map",
+    "index.html": "/os_kodu4/index.html",
+    "precache-manifest.0608e9ae53848f150a8d72ef3718181c.js": "/os_kodu4/precache-manifest.0608e9ae53848f150a8d72ef3718181c.js",
+    "service-worker.js": "/os_kodu4/service-worker.js",
+    "static/css/main.a88db1dc.chunk.css.map": "/os_kodu4/static/css/main.a88db1dc.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89c855a6.js",
+    "static/js/2.5a826f93.chunk.js",
+    "static/css/main.a88db1dc.chunk.css",
+    "static/js/main.3378115d.chunk.js"
+  ]
+}
