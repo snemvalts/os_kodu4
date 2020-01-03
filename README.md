@@ -11,6 +11,6 @@ Projekti püsti saamiseks jooksutage `npm start` . Siis navigeerige http://local
 
 Projekt on ka saadaval https://snemvalts.github.io/os_kodu2/
 
-##Kummal viisil mõõdetud fragmenteeritus on pöörleva ketta jõudluskao iseloomustamiseks mõistlikum (põhjenda)?
+## Kummal viisil mõõdetud fragmenteeritus on pöörleva ketta jõudluskao iseloomustamiseks mõistlikum (põhjenda)?
 
 Ma arvan et mõõdetes fragmenteeritud failidele kuuluvat ruumi, kuna kui mõõta fragmenteeritust ainult failide koguste põhjal, ei arvestata nende suurust.
